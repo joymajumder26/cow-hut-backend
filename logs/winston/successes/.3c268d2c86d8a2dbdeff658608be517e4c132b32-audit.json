@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\.3c268d2c86d8a2dbdeff658608be517e4c132b32-audit.json",
+    "files": [
+        {
+            "date": 1687274501011,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-20-06-21-success.log",
+            "hash": "e7bc10911f807e8f36e72f37baa385223d7a9fb2585ebd710b66b6eea2f244c9"
+        },
+        {
+            "date": 1687276916832,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-20-06-22-success.log",
+            "hash": "28281eff27bd6cb0cb60c5994f009c545469b210618d9e49db30f0f091e92b58"
+        },
+        {
+            "date": 1687331947192,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-13-success.log",
+            "hash": "3dba6bd81494e5d43f9ef1f20cd070db820c4c748c74fcf65fa5a03bc685be73"
+        },
+        {
+            "date": 1687334612729,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-14-success.log",
+            "hash": "35ad52eb816831b180a5190c71c1ef40d139bc06535ee686c7148194cbdfb7d0"
+        },
+        {
+            "date": 1687339089389,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-15-success.log",
+            "hash": "12e363fa2e54278ac0b82cd4033e8dcf389393d5f477bb23ddcdcca609b85a21"
+        },
+        {
+            "date": 1687342454795,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-16-success.log",
+            "hash": "69959f80c8b902b518b418c7947b72c20d6642274caf5323b5bf87ea10135439"
+        },
+        {
+            "date": 1687345790271,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-17-success.log",
+            "hash": "9998742d94560b4ce79de5ca4667f7247dfbcfb719e58bfa839d9fcfb75f0669"
+        },
+        {
+            "date": 1687348836274,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-18-success.log",
+            "hash": "4f13353abbfe594cbadd01a1c797fb09a29672592aeb384dae0f669bcad2a24b"
+        },
+        {
+            "date": 1687359136253,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-20-success.log",
+            "hash": "99c83d90a8b53f9e14813d9d53cff59ff7c9e0f4a4ffaa5e785f7a2a6febc941"
+        },
+        {
+            "date": 1687359632773,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-21-success.log",
+            "hash": "6f18ff9dcfedea38eeaf45cade324d5f04179d2debb203dc6f40140659557eae"
+        },
+        {
+            "date": 1687364046580,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-22-success.log",
+            "hash": "0bc15dd5e91de00f1cdc081ba3011b17752d68d6936e6fa5480fce533e5b199a"
+        }
+    ],
+    "hashType": "sha256"
+}
