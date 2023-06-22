@@ -59,6 +59,16 @@
             "date": 1687364046580,
             "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-21-06-22-success.log",
             "hash": "0bc15dd5e91de00f1cdc081ba3011b17752d68d6936e6fa5480fce533e5b199a"
+        },
+        {
+            "date": 1687413468578,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-22-06-11-success.log",
+            "hash": "9e6ed0a7a85fedf2e71d89c5b574bf20bed6d3ac3f4012e7382a583586fb1a48"
+        },
+        {
+            "date": 1687413809256,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\successes\\phu-2023-22-06-12-success.log",
+            "hash": "d040f6c0b7b9de3cb70a95b60ea775617a43f76dfed8ca49f68cd1f94d2ada4c"
         }
     ],
     "hashType": "sha256"
