@@ -6,69 +6,24 @@
     "auditLog": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\.4c4450ee27e11da861d6fcf768a56c5272fb0cad-audit.json",
     "files": [
         {
-            "date": 1687274501014,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-20-06-21-error.log",
-            "hash": "706aa97cf1cc4cabbb31d42c082119c21c5881c44aad42ad4df95283749c7f26"
+            "date": 1688746767411,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-07-07-22-error.log",
+            "hash": "cc12b6d2c71bf3b179bb901b7beed7b5671b9428a2eac9c00cfb80538459ea0b"
         },
         {
-            "date": 1687276916836,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-20-06-22-error.log",
-            "hash": "8bf6332b87a83ff0beb319956ebf1243c5d78fe782f0d59ec49742d5681ff054"
+            "date": 1688803359344,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-08-07-14-error.log",
+            "hash": "31bd08c9fde9ea355b22c1e4c36e2032166dabc494debff4e4e103a13bd7a029"
         },
         {
-            "date": 1687331947203,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-13-error.log",
-            "hash": "d787216955a06a49fc7faca1c8c61ca9cba0630bb22f2a2763b43c75c9ac5306"
+            "date": 1688807032137,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-08-07-15-error.log",
+            "hash": "2dd1014905221e838e9cdfe365914603ae4b2fa51dc37383b978ed8a5660636b"
         },
         {
-            "date": 1687334612733,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-14-error.log",
-            "hash": "73693897f8616d91e5db8d553dca4baaa7c316c27a56d6e34bff5eeb3d448f4e"
-        },
-        {
-            "date": 1687339089393,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-15-error.log",
-            "hash": "5a5c884548a1d9cd1a4523278fb0ea47103ad4f4b7ead221c05e4ba96ebc5ab6"
-        },
-        {
-            "date": 1687342454799,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-16-error.log",
-            "hash": "2b2200abb5aff4b230a3b61131b6724cd0d2781572a6659d7346cd137e7c50d7"
-        },
-        {
-            "date": 1687345790275,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-17-error.log",
-            "hash": "c85843278449417e793bbc10e244154b9014bd1db2b5d2414fa5d49e4a39fd47"
-        },
-        {
-            "date": 1687348836278,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-18-error.log",
-            "hash": "f111e3516bd126ca6060588449d069ffc7c3f11207ec4cf36c8a47739ea362dd"
-        },
-        {
-            "date": 1687359136257,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-20-error.log",
-            "hash": "ac79e3b5f0bdad78d47b2ce0be12790b188c7f3fb4e7810bc327933f11514dbc"
-        },
-        {
-            "date": 1687359632777,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-21-error.log",
-            "hash": "2e771e8928bfca036689175af61da60ce36ff95eb8e1049716c62a4594ee39b0"
-        },
-        {
-            "date": 1687364046585,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-21-06-22-error.log",
-            "hash": "f97f4ff73a235972693a7c78b783bce09067843d9001e58192a79498fa6c7d65"
-        },
-        {
-            "date": 1687413468584,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-22-06-11-error.log",
-            "hash": "cba2a9f1666e9605e746cb02e708d12e832654b3cf6c6b5f8cfa6f9ae2ec0e18"
-        },
-        {
-            "date": 1687413809266,
-            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-22-06-12-error.log",
-            "hash": "ac6f27168d10ebc576538817bc80e42e7f13a0a48cb75a7b51dec623e2a79995"
+            "date": 1688811160342,
+            "name": "E:\\JavaScript\\Digital Cow Hut Backend Assignment\\logs\\winston\\errors\\phu-2023-08-07-16-error.log",
+            "hash": "3b5207447ed665ea82f4647a8fd0baf16d7ef05af27117f99ef34cffaf26d369"
         }
     ],
     "hashType": "sha256"

@@ -8,7 +8,7 @@ export type name = {
 export type IUser = {
   // id: string;
   password: string;
-  role: 'buyer' | 'seller';
+  role: 'buyer' | 'seller' | 'admin';
   name: name; //embedded object
 
   phoneNumber: string;

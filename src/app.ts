@@ -6,6 +6,7 @@ import globalErrorHandler from './app/middlewares/globalErrorHandler';
 import routes from './app/routes';
 
 import httpStatus from 'http-status';
+import cookieParser from 'cookie-parser';
 // import { generateFacultyId } from './app/modules/user/user.untills';
 // import { UserRoutes } from './app/modules/user/user.route';
 // import { AcademicSemesterRoutes } from './app/modules/academicSemester/academicSemester.route';
@@ -13,6 +14,7 @@ import httpStatus from 'http-status';
 const app: Application = express();
 
 app.use(cors());
+app.use(cookieParser());
 //parser
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
