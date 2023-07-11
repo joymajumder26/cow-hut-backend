@@ -2,6 +2,8 @@ import express from 'express';
 import validateRequest from '../../middlewares/validateRequest';
 import { AuthValidation } from './auth.validation';
 import { AuthController } from './auth.controller';
+import auth from '../../middlewares/auth';
+import { ENUM_USER_ROLE } from '../../../enums/user';
 
 const router = express.Router();
 
@@ -14,6 +16,7 @@ router.post(
 router.post(
   '/refresh-token',
   validateRequest(AuthValidation.refreshTokenZodSchema),
+  
   AuthController.refreshToken
 );
 

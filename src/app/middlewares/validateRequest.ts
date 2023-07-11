@@ -1,8 +1,5 @@
 import { NextFunction, Request, Response } from 'express';
-
 import { AnyZodObject, ZodEffects } from 'zod';
-
-// import { z } from 'zod'
 
 const validateRequest =
   (schema: AnyZodObject | ZodEffects<AnyZodObject>) =>
@@ -17,10 +14,6 @@ const validateRequest =
       return next();
     } catch (error) {
       next(error);
-      // res.status(400).json({
-      //   sucess: false,
-      //   message: 'Failed to create user',
-      // })
     }
   };
 

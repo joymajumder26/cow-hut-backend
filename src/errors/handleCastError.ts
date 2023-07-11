@@ -8,6 +8,7 @@ const handleCastError = (error: mongoose.Error.CastError) => {
       message: 'Invalid Id',
     },
   ];
+
   const statusCode = 400;
   return {
     statusCode,
@@ -15,4 +16,5 @@ const handleCastError = (error: mongoose.Error.CastError) => {
     errorMessages: errors,
   };
 };
+
 export default handleCastError;
